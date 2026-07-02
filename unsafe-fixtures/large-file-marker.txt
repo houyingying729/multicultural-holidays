@@ -1,0 +1,6 @@
+SAFE TEST FIXTURE ONLY.
+
+This is a marker for validating large-file policy messaging. It is intentionally
+small so the repository remains lightweight. If the validation rule depends on
+actual byte size, generate a large dummy text file in a disposable test branch.
+
