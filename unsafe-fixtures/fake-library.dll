@@ -1,0 +1,5 @@
+SAFE TEST FIXTURE ONLY.
+
+This is plain text with a suspicious .dll extension.
+It is not a dynamic library and contains no executable code.
+
