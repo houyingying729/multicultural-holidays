@@ -1,0 +1,6 @@
+SAFE TEST FIXTURE ONLY.
+
+This file intentionally mentions EICAR but does not include the real EICAR test
+signature. Use it to validate keyword-based policy messaging without triggering
+local antivirus quarantine.
+
