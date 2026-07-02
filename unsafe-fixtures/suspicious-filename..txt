@@ -1,0 +1,4 @@
+SAFE TEST FIXTURE ONLY.
+
+This file uses an unusual double-dot name to test filename normalization rules.
+
